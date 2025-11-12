@@ -2,6 +2,7 @@
 # For every string entered, it displays the length of it and the number of words in it.
 # If the string is empty, it will just be skipped using continue.
 # If the input string is “break”, break out of the loop.
+# Learning pull again!
 
 def main():
     while True:
