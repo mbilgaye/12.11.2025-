@@ -5,6 +5,7 @@
 # Note: the word STOP doesn’t have to appear in the list.
 # If the word “STOP” did not appear in the list, the returned list should be a copy of the original one.
 # For example, running until_stop(["hey", "joe", "meow", "STOP", "Hello"]) should return the list ["hey", "joe", "meow"].
+# Additional comment to learn pull
 
 def until_stop(words):
     result = []
