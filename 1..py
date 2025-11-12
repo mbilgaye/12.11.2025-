@@ -2,6 +2,7 @@
 # If the value of the counter is divisible by 5, just skip it using continue.
 # For the rest of the numbers, print the number.
 # Each number should appear in a new line.
+# Additional comment
 
 counter = 1
 while counter <= 20:
